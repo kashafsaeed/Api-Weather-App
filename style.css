@@ -44,4 +44,8 @@ input[type="text"]::placeholder {
     opacity: 1;
 }
 
-
+#cityname, #temp, #weather, #humidity, #wind {
+    color: #fff;
+    margin: 5px 0;
+    text-align: center;
+}
