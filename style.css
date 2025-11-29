@@ -1,0 +1,25 @@
+
+body {
+    background-image: url(images/kenrick-mills-1h2Pg97SXfA-unsplash\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+    font-family: Arial, sans-serif;
+    background-position: center;
+}
+
+.container {
+    height: 90vh;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    background-color: #405D62;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+  
+}
